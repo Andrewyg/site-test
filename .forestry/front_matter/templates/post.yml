@@ -1,5 +1,6 @@
 ---
 pages:
+- _posts/mobile.md
 - _posts/titlesf.md
 hide_body: false
 fields:
