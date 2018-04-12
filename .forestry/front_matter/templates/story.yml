@@ -8,6 +8,11 @@ fields:
   label: content
   config:
     required: true
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: html
+- type: text
+  name: test
+  label: test
+  config:
+    required: true
