@@ -1,0 +1,11 @@
+---
+hide_body: true
+fields:
+- type: textarea
+  name: content
+  label: content
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: html
