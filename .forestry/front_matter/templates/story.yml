@@ -1,6 +1,7 @@
 ---
 pages:
 - ansdkn.md
+- _posts/asndk.md
 hide_body: true
 fields:
 - type: textarea
