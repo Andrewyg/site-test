@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- type: text
+  default: Title
+  label: title
+  name: title
+  description: title
