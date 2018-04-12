@@ -1,0 +1,10 @@
+---
+hide_body: false
+fields:
+- type: textarea
+  default: ansdlkn
+  label: nkansd
+  name: nkansd
+  description: aasd
+  config:
+    required: true
